@@ -1,9 +1,9 @@
 # RaspberryPi_RS485
 This reposity is used to read RS485 sensor with Raspberry Pi
 
-==============================================================
+=========================================
         1. Set 485 serial port
-==============================================================
+=========================================
 
 sudo raspi-config  -> Interfacing Options -> Serial -> login shell(no) -> port hardware(yes)
 
@@ -14,9 +14,9 @@ Connect the sensor:
     ![image](https://github.com/Hep-dog/RaspberryPi_RS485/raw/master/images/Connection.jpg)
 
 
-==============================================================
-        1. Set 485 serial port
-==============================================================
+=========================================
+        2.  Read the RS485 data
+=========================================
 
 read the data with the request-response scheme:
 
