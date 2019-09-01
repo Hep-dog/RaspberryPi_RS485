@@ -30,5 +30,3 @@ Read the data using the following code:
 Then using influxdb + grafana + telegraf to display the data online:
     ![image](https://github.com/Hep-dog/RaspberryPi_RS485/raw/master/images/Grafana.jpg)
 
-
-
